@@ -1,3 +1,0 @@
-```sh
-### updated joystick code for automatic usb detection and improved error handling
-```
